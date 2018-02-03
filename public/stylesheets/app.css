@@ -1,0 +1,15 @@
+.container {
+    margin-top: 25px;
+}
+
+#reviews {
+    margin-top: 1rem;
+}
+
+.navbar-text {
+    color: white;
+}
+
+#deletebtn {
+    display: inline;
+}
