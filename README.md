@@ -1,8 +1,8 @@
-##### Yelp Camp
+# Yelp Camp
 
 A web application project resulting from self teaching and the help of on-line courses.
 
-# Things learned during development:
+###### Things learned during development:
 
 -JavaScript
 -Cloud 9
